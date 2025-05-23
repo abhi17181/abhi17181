@@ -1,54 +1,74 @@
-# Hey there, I'm Abhishek Singh! 👋  
-### Software Developer in Training | Passionate about Clean Code & Scalable Systems
+<h1 align="center">Hey there, I'm Abhishek Singh 👋</h1>
+<h3 align="center">Aspiring Software Developer | Java & DSA Practitioner | Future Full-Stack Pro</h3>
 
-I'm a Computer Science undergraduate with a deep interest in Java, Data Structures & Algorithms, and Full-Stack Development. I enjoy building practical projects, exploring backend systems, and continuously improving through learning and collaboration.
-
-![Profile Views](https://komarev.com/ghpvc/?username=abhi17181&label=Visitors&style=flat-square&color=0e75b6)
-
----
-
-### 🧠 About Me
-
-- 🎓 Pursuing BTech in Computer Science  
-- 💻 Skilled in Java, DSA, and SQL  
-- 🌐 Building full-stack applications using HTML, CSS, JavaScript, and backend technologies  
-- ⚙️ Focused on writing scalable, maintainable code  
-- 🔍 Always learning and staying updated with modern development practices  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhi17181&label=Profile%20Views&color=blueviolet&style=flat-square" alt="abhi17181" />
+</p>
 
 ---
 
-### 🌐 Connect with Me
+### 👨‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-singh-9844a030a)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_.abhi._18?igsh=ZHMyMXhqZmN1ODdx)  
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:as7651173@gmail.com)
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Core:**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-orange?style=flat)
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Backend & Database:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-black?style=flat)
+- 🎓 Pursuing BTech in Computer Science Engineering  
+- 💡 Learning Java, DSA, Web & App Development  
+- 🌐 Interested in building scalable full-stack applications  
+- 🛠️ Currently exploring backend technologies and system design  
+- ✨ Passionate about clean code, problem-solving & continuous learning
 
 ---
 
-### 📈 GitHub Stats
+### 🧰 Tech Stack
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi17181&show_icons=true&theme=transparent&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi17181&layout=compact&theme=transparent&hide_border=true)
+#### Languages & Algorithms
+![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-%23FFA500?style=for-the-badge)
+
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Backend & Database
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23000000?style=for-the-badge)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
->  
-> Always striving for clean, efficient, and impactful code.
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-singh-9844a030a)
+[![Instagram](https://img.shields.io/badge/Instagram-itz_.abhi._18-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_.abhi._18?igsh=ZHMyMXhqZmN1ODdx)
+[![Gmail](https://img.shields.io/badge/Gmail-as7651173@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:as7651173@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi17181&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🔥 Streak & Languages
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi17181&theme=dark&hide_border=true" alt="Streak Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi17181&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhi17181&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📌 Quote I Live By
+> _"Simplicity is the soul of efficiency."_ – Austin Freeman
+
+---
