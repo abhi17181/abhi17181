@@ -7,66 +7,69 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Who Am I?
 
-- 🎓 BTech CSE student with a passion for problem-solving and software design  
-- 💻 Focused on mastering Java, DSA, and full-stack web development  
-- 🚀 Exploring backend development, REST APIs, and scalable architectures  
-- ✍️ Passionate about writing clean, maintainable code  
-- 🎯 Always learning, building, and improving — one commit at a time
+I'm a passionate **Computer Science Engineering student** with a sharp focus on:
+
+- 🌟 Writing efficient, clean, and scalable code  
+- 💻 Solving real-world problems using Java, DSA, and full-stack web technologies  
+- 🧠 Constantly learning and improving every single day
+
+My goal?  
+> To become a **top-tier software engineer** who builds impactful products, writes elegant code, and never stops growing 🚀
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 What I'm Good At
 
-### 🚀 Languages & Fundamentals
+### 👨‍💻 Core Programming
 ![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%23FFA500?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data%20Structures-%23FFA500?style=for-the-badge)
 
-### 🖥️ Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Frontend Technologies
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🧩 Backend & Database
+### 🔧 Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23000000?style=for-the-badge)
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📌 Projects
+## 🧑‍💻 Projects I’m Proud Of
 
-> 🧠 Here are a few things I’ve built recently. More on the way!
+> A few things I’ve built recently and keep improving on:
 
-- 🔖 [**Portfolio Website**](#) – Clean and responsive site showcasing my journey  
-- ✅ [**To-Do List App**](#) – Vanilla JS CRUD app with localStorage  
-- 🌐 [**Google Clone**](#) – Frontend replica of Google using HTML, CSS & JS  
-- 🧮 [**DSA Practice Repo**](https://github.com/abhi17181/DSA-Java) – Java solutions to 100+ coding problems
+- 🌐 [**Portfolio Website**](#) – A personal site to showcase my journey (Coming Soon!)
+- ✅ [**To-Do App**](https://github.com/abhi17181/todo-app) – Simple React + localStorage productivity app  
+- 📊 [**DSA Practice Repo**](https://github.com/abhi17181/DSA-Java) – Java solutions to 100+ DSA problems  
+- 🔍 [**Google UI Clone**](https://github.com/abhi17181/google-clone) – A front-end replica of Google using HTML/CSS
 
-*(Links can be updated as you upload projects)*
+> *(Want your projects to shine? Let me know and I’ll write crisp descriptions for each one)*
 
 ---
 
-## 📊 GitHub Stats
+## 📈 My GitHub in Numbers
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhi17181&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi17181&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi17181&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi17181&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abhi17181&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
@@ -74,7 +77,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 💬 Let’s Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-singh-9844a030a">
@@ -90,9 +93,18 @@
 
 ---
 
-## 💬 Quote I Live By
+## ✨ Life Motto
 > _"Simplicity is the soul of efficiency."_ – Austin Freeman
 
 ---
+
+## 📅 Currently Working On
+
+- Improving my Java and DSA skills 📚  
+- Building full-stack web apps using MERN 🌐  
+- Preparing for tech internships and interviews 🧠  
+
+---
+
 
 
