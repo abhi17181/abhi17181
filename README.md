@@ -49,13 +49,6 @@ My goal?
 > A few things I’ve built recently and keep improving on:
 
 - 🌐 [**Portfolio Website**](#) – A personal site to showcase my journey (Coming Soon!)
-- ✅ [**To-Do App**](https://github.com/abhi17181/todo-app) – Simple React + localStorage productivity app  
-- 📊 [**DSA Practice Repo**](https://github.com/abhi17181/DSA-Java) – Java solutions to 100+ DSA problems  
-- 🔍 [**Google UI Clone**](https://github.com/abhi17181/google-clone) – A front-end replica of Google using HTML/CSS
-
-> *(Want your projects to shine? Let me know and I’ll write crisp descriptions for each one)*
-
----
 
 ## 📈 My GitHub in Numbers
 
