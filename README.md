@@ -50,24 +50,23 @@ My goal?
 
 - 🌐 [**Portfolio Website**](#) – A personal site to showcase my journey (Coming Soon!)
 
-## 📈 My GitHub in Numbers
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhi17181&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi17181&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔥 Streak & Languages
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi17181&theme=dark&hide_border=true" alt="Streak Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi17181&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi17181&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 💬 Let’s Connect!
