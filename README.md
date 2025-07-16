@@ -9,16 +9,18 @@
 
 ## 👨‍💻 Who Am I?
 
-I'm a dedicated **Computer Science Engineering student** on a mission to become a world-class software developer.
+I'm a passionate **Computer Science Engineering student** with a sharp focus on:
 
-- 👨‍🎓 Currently leveling up my Java and DSA skills  
-- 🌱 Learning backend development, REST APIs & system design  
-- 🧠 Committed to solving problems, building real-world solutions, and writing clean code  
-- 🚀 Hungry to grow and always up for challenges
+- 🌟 Writing efficient, clean, and scalable code  
+- 💻 Solving real-world problems using Java, DSA, and full-stack web technologies  
+- 🧠 Constantly learning and improving every single day
+
+My goal?  
+> To become a **top-tier software engineer** who builds impactful products, writes elegant code, and never stops growing 🚀
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 What I'm Good At
 
 ### 👨‍💻 Core Programming
 ![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white)
@@ -30,6 +32,8 @@ I'm a dedicated **Computer Science Engineering student** on a mission to become 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🔧 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23000000?style=for-the-badge)
 
@@ -40,7 +44,20 @@ I'm a dedicated **Computer Science Engineering student** on a mission to become 
 
 ---
 
-## 📈 GitHub Stats
+## 🧑‍💻 Projects I’m Proud Of
+
+> A few things I’ve built recently and keep improving on:
+
+- 🌐 [**Portfolio Website**](#) – A personal site to showcase my journey (Coming Soon!)
+- ✅ [**To-Do App**](https://github.com/abhi17181/todo-app) – Simple React + localStorage productivity app  
+- 📊 [**DSA Practice Repo**](https://github.com/abhi17181/DSA-Java) – Java solutions to 100+ DSA problems  
+- 🔍 [**Google UI Clone**](https://github.com/abhi17181/google-clone) – A front-end replica of Google using HTML/CSS
+
+> *(Want your projects to shine? Let me know and I’ll write crisp descriptions for each one)*
+
+---
+
+## 📈 My GitHub in Numbers
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhi17181&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
@@ -60,7 +77,7 @@ I'm a dedicated **Computer Science Engineering student** on a mission to become 
 
 ---
 
-## 🌐 Connect With Me
+## 💬 Let’s Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-singh-9844a030a">
@@ -76,20 +93,19 @@ I'm a dedicated **Computer Science Engineering student** on a mission to become 
 
 ---
 
-## 💬 Quote I Live By
+## ✨ Life Motto
+> _"You are the Choosen one, Just do it"
 
-> _“Push yourself, because no one else is going to do it for you.”_
+---
+
+## 📅 Currently Working On
+
+- Improving my Java and DSA skills 📚  
+- Building full-stack web apps using MERN 🌐  
+- Preparing for tech internships and interviews 🧠  
 
 ---
 
-## 🛠️ Current Focus
-
-- Practicing DSA consistently using Java  
-- Building a solid foundation in backend & system design  
-- Preparing for tech internships & interview rounds  
-- Becoming a confident, all-round developer 💪
-
----
 
 
 
