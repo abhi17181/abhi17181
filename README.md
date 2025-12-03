@@ -1,5 +1,9 @@
-<h1 align="center">Hey there, I'm Abhishek Singh 👋</h1>
+<!-- Profile Header -->
+
+<h1 align="center">👋 Hi, I'm <span style="color:#8A2BE2">Abhishek Singh</span></h1>
 <h3 align="center">Aspiring Software Developer | Java & DSA Enthusiast | Future Full-Stack Engineer</h3>
+
+<!-- Visitor Counter (Optional) -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhi17181&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
@@ -7,69 +11,79 @@
 
 ---
 
-## 👨‍💻 Who Am I?
+## 🚀 About Me
 
-I'm a passionate **Computer Science Engineering student** with a sharp focus on:
+Hey! I'm **Abhishek Singh**, a passionate **Computer Science Engineering** student driven by the goal of becoming a **top-tier software engineer**.
+I love solving real-world problems, writing scalable code, and constantly building cool projects.
 
-- 🌟 Writing efficient, clean, and scalable code  
-- 💻 Solving real-world problems using Java, DSA, and full-stack web technologies  
-- 🧠 Constantly learning and improving every single day
-
-My goal?  
-> To become a **top-tier software engineer** who builds impactful products, writes elegant code, and never stops growing 🚀
+* 🔭 Currently learning **Java, DSA & MERN Stack**
+* 🌱 Improving daily through consistent coding
+* 🚀 Exploring **full-stack development** & cloud
+* 🎯 Aim: Build products that create **real impact**
 
 ---
 
-## 🚀 What I'm Good At
+## 🛠️ Tech Stack & Tools
 
-### 👨‍💻 Core Programming
-![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white)
+### 💻 Programming & CS Fundamentals
+
+![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge\&logo=java\&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures-%23FFA500?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-%2300b0ff?style=for-the-badge)
 
-### 🌐 Frontend Technologies
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🌐 Web Development
 
-### 🔧 Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23000000?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### 🛠️ Tools & Workflow
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### ⚙️ Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758f?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🧰 Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
-## 🧑‍💻 Projects I’m Proud Of
+## 🔥 Featured Projects
 
-> A few things I’ve built recently and keep improving on:
+Here are some highlights from what I’ve been building:
 
-- 🌐 [**Portfolio Website**](#) – A personal site to showcase my journey (Coming Soon!)
+### 🌐 Portfolio Website *(Coming Soon)*
 
-### 📊 GitHub Stats
+A personal website showcasing my skills, journey, and achievements.
+
+### 💼 REST APIs with Node.js & Express
+
+Secure, scalable backend APIs with proper routing, middleware, and error handling.
+
+### 🧠 DSA Practice Repository
+
+Contains structured solutions and explanations for popular DSA problems.
+
+---
+
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi17181&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi17181&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi17181&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi17181&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 🔥 Streak & Languages
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi17181&theme=dark&hide_border=true" alt="Streak Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi17181&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
----
-
-## 💬 Let’s Connect!
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-singh-9844a030a">
@@ -86,15 +100,17 @@ My goal?
 ---
 
 ## ✨ Life Motto
-> _"You are the Choosen one, Just do it"
+
+> *"You are the chosen one — just do it."*
 
 ---
 
-## 📅 Currently Working On
+## 📅 What I'm Working On
 
-- Improving my Java and DSA skills 📚  
-- Building full-stack web apps using MERN 🌐  
-- Preparing for tech internships and interviews 🧠  
+* 🚀 Mastering Java & DSA
+* 🌐 Building full-stack web apps (MERN)
+* 💼 Preparing for software engineering internships
+* 📘 Building strong CS fundamentals
 
 ---
 
