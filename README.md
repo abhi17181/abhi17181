@@ -57,10 +57,6 @@ I love solving real-world problems, writing scalable code, and constantly buildi
 
 Here are some highlights from what I’ve been building:
 
-### 🌐 Portfolio Website *(Coming Soon)*
-
-A personal website showcasing my skills, journey, and achievements.
-
 ### 💼 REST APIs with Node.js & Express
 
 Secure, scalable backend APIs with proper routing, middleware, and error handling.
