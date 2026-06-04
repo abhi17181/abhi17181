@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 
 <h1 align="center">👋 Hi, I'm <span style="color:#8A2BE2">Abhishek Singh</span></h1>
-<h3 align="center">Aspiring Software Developer | Java & DSA Enthusiast | Future Full-Stack Engineer</h3>
+<h3 align="center">Mern Stack Developer | Java & DSA Enthusiast | Future Full-Stack Engineer</h3>
 
 <!-- Visitor Counter (Optional) -->
 
